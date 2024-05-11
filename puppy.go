@@ -25,6 +25,9 @@ func Fromlal2() {
 	fmt.Println("I am from version 1.2.0")
 }
 
-func taglal() {
-	fmt.Println("tagging 1.2.0")
+func taglal2() {
+	fmt.Println("tagging V1.2.0")
+}
+func taglal30() {
+	fmt.Println("tagging V1.3.0")
 }
