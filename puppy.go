@@ -31,3 +31,6 @@ func Taglal4() {
 func Taglal5() {
 	fmt.Println("tagging V1.5.0")
 }
+func Taglal8() {
+	fmt.Println("tagging V1.8.0")
+}
